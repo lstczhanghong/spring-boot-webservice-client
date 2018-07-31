@@ -1,4 +1,4 @@
-package com.webservice.client.hello;
+package com.webservice.client.send;
 
 import com.webservice.client.wsdl.RunJsonResult;
 import com.webservice.client.wsdl.RunJsonResultResponse;

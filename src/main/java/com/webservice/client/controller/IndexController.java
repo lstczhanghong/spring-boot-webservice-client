@@ -1,6 +1,6 @@
 package com.webservice.client.controller;
 
-import com.webservice.client.hello.DataClient;
+import com.webservice.client.send.DataClient;
 import com.webservice.client.wsdl.RunJsonResultResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
